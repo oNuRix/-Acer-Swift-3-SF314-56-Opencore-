@@ -1,6 +1,7 @@
 # Acer Swift 3 SF314-56 Opencore 
-  <img src="Image1.png"/>
-## Configuration
+<img width="1680" alt="IMG" src="https://user-images.githubusercontent.com/40405226/166815436-a559907f-a332-4c2f-a759-68c39c1c46bf.PNG">
+
+Configuration
 
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
@@ -18,12 +19,16 @@
 
 ## Current Status
 
-- **Fingerprint sensor** is not working
-- **Built-in DMIC** is not working
+- **Fingerprint sensor** is not working (never will work)
+- **Built-in DMIC** is not working (not need)
+- **SdCard reader** is not working (not need)
 
 - Everything else works well
-- But battery drain too fast (battery healt 90%)
+- But battery drain too fast (battery healt was 90% on linux)
  
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values
 
 - Install **ComboJack** to assist with Headphones / Headset
+
+
+**Thanks diepeterpan for README.md**
