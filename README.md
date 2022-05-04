@@ -1,7 +1,7 @@
 # Acer Swift 3 SF314-56 Opencore 
 <img width="1680" alt="IMG" src="https://user-images.githubusercontent.com/40405226/166815436-a559907f-a332-4c2f-a759-68c39c1c46bf.PNG">
 
-Configuration
+## Configuration
 
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
@@ -30,5 +30,15 @@ Configuration
 
 - Install **ComboJack** to assist with Headphones / Headset
 
+## Disable in Bios
+**Main**
+- Network Wake
+- Sata Mode - AHCI (be sure selected AHCI)
+- Usb Wake from s4
+- FastBoot
+
+**Security**
+- Secure Boot
+- TPM
 
 **Thanks diepeterpan for README.md**
