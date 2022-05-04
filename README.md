@@ -7,8 +7,8 @@
 | Computer model      | Acer Swift 3 SF314-56 (2019)      |
 | Processor           | Intel Core i5-8265U     |
 | Memory              | 20GB  DDR4 2133MHz              |
-| Hard Disk           | M.2 Nvme KINGSTON RBUSNS8154P3256GJ1 Media for MacOS
-                       2,5" SSD 128GB KINGSTON SVP200S37A120G Media for windows10  |
+| NVME                | M.2 Nvme KINGSTON RBUSNS8154P3256GJ1 Media for MacOS |
+| SSD                 | 2,5" SSD 128GB KINGSTON SVP200S37A120G Media for windows10  |
 | Integrated Graphics | Intel UHD Graphics 620                     |
 | Monitor             |  FHD 1920x1080 (14 inch) |
 | Sound Card          | Realtek ALC256           |
