@@ -7,18 +7,20 @@
 | ------------------- | ------------------------------------------- |
 | Computer model      | Acer Swift 3 SF314-56 (2019)      |
 | Processor           | Intel Core i5-8265U     |
-| Memory              | 20GB  DDR4 2133MHz              |
+| Memory              | 20GB  DDR4 2133MHz (4GB 2400MMHz soldered/16GB 2133MHz in slot) |
 | NVME                | M.2 Nvme KINGSTON RBUSNS8154P3256GJ1 Media for MacOS |
 | SSD                 | 2,5" SSD 128GB KINGSTON SVP200S37A120G Media for windows10  |
 | Integrated Graphics | Intel UHD Graphics 620                     |
-| Monitor             |  FHD 1920x1080 (14 inch) |
+| Monitor             | FHD 1920x1080 (14 inch) |
 | Sound Card          | Realtek ALC256           |
 | Wireless Card       | Intel 9560NGW                     |
 | SD Card Reader      | Realtek                 |
+| TouchPad            | Elan0504 | 
 
 
 ## Current Status
 
+- **After rebooting from Monterey keyboard won't work in OpencorePicker, But it's work if rebooting from Windows or Mojave (issue is only in OpencorePicker menu, after reboot keyboard and touchpad work)**
 - **Fingerprint sensor** is not working (never will work)
 - **Built-in DMIC** is not working (not need)
 - **SdCard reader** is not working (not need)
@@ -28,7 +30,7 @@
  
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values
 
-- Install **ComboJack** to assist with Headphones / Headset
+- Install **ComboJack** to assist with Headphones / Headset https://github.com/hackintosh-stuff/ComboJack
 
 ## Disable in Bios
 **Main**
