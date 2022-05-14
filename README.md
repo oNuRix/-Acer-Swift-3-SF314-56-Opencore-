@@ -15,7 +15,7 @@
 | Sound Card          | Realtek ALC256           |
 | Wireless Card       | Intel 9560NGW                     |
 | SD Card Reader      | Realtek                 |
-| TouchPad            | Elan0504 | 
+| TouchPad            | Elan0504 (TPD0)| 
 
 
 ## Current Status
