@@ -13,7 +13,7 @@
 | Integrated Graphics | Intel UHD Graphics 620                     |
 | Monitor             | FHD 1920x1080 (14 inch) |
 | Sound Card          | Realtek ALC256           |
-| Wireless Card       | Intel 9560NGW                     |
+| Wireless Card       | Intel 9560NGW changed with ax200NGW                    |
 | SD Card Reader      | Realtek                 |
 | TouchPad            | Elan0504 (TPD0)| 
 
@@ -23,7 +23,7 @@
 - **After rebooting from Monterey keyboard won't work in OpencorePicker, But it's work if rebooting from Windows or Mojave (issue is only in OpencorePicker menu, after reboot keyboard and touchpad work)**
 - **Fingerprint sensor** is not working (never will work)
 - **Built-in DMIC** is not working (not need)
-- **SdCard reader** is not working (not need)
+- **SdCard reader WORK** with USBMap.kext https://github.com/corpnewt/USBMap
 
 - Everything else works well
 - But battery drain too fast (battery healt was 90% on linux)
