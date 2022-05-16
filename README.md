@@ -23,7 +23,7 @@
 - **After rebooting from Monterey keyboard won't work in OpencorePicker, But it's work if rebooting from Windows or Mojave (issue is only in OpencorePicker menu, after reboot keyboard and touchpad work)**
 - **Fingerprint sensor** is not working (never will work)
 - **Built-in DMIC** is not working (not need)
-- **SdCard reader WORK** with USBMap.kext https://github.com/corpnewt/USBMap
+- **SdCard reader WORK** with SSDT-USB-Reset.aml don't need USBMap.kext
 
 - Everything else works well
 - But battery drain too fast (battery healt was 90% on linux)
