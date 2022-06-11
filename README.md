@@ -13,7 +13,7 @@
 | Integrated Graphics | Intel UHD Graphics 620                     |
 | Monitor             | FHD 1920x1080 (14 inch) |
 | Sound Card          | Realtek ALC256           |
-| Wireless Card       | Intel 9560NGW changed with ax200NGW                    |
+| Wireless Card       | Intel 9560NGW changed with ax200NGW / now i have 10Gbit/s modem with wifi6 |
 | SD Card Reader      | Realtek                 |
 | TouchPad            | Elan0504 (TPD0)| 
 
