@@ -1,5 +1,7 @@
 # Acer Swift 3 SF314-56 Opencore 
 <img width="1680" alt="IMG" src="https://user-images.githubusercontent.com/40405226/166815436-a559907f-a332-4c2f-a759-68c39c1c46bf.PNG">
+![speedtest](https://user-images.githubusercontent.com/40405226/173199851-cb78a86a-32be-43a9-8e7e-f033fb87e380.png)
+
 
 ## Configuration
 
